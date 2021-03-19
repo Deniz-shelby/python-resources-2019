@@ -4,6 +4,8 @@ additions to the list please open an issue.
 
 ### Books
 
+* Clean Code
+
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
 new to python. Note there's earlier version _Learn Python the Hard Way_ that covers Python 2.
   
@@ -44,6 +46,8 @@ https://github.com/kuzmich/python-challenge-solution/blob/master/solution.ipynb)
 
 * [_Hacker Rank_](https://www.hackerrank.com/) 100s of Python problems for you to solve, solutions available after 
 completing the problems.
+
+* Kaggle
 
 ### Community
 
@@ -94,6 +98,8 @@ much more.
 
 * [_Django Source Code_](https://github.com/django/django) Great for searching when looking for what text Django was 
 using by default but it wasn’t clear where in the Django source code it was written.
+
+* Django CMS
 
 ### Documentation
 
